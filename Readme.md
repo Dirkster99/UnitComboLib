@@ -9,3 +9,5 @@ https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Cont
 
 The control is also used in Edi:
 https://github.com/Dirkster99/Edi
+
+and available on NuGet: https://preview.nuget.org/packages/Dirkster.UnitComboLib/
