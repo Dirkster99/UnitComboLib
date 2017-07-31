@@ -1,3 +1,4 @@
+[![Release](https://img.shields.io/github/release/Dirkster99/UnitComboLib.svg.svg)](https://github.com/Dirkster99/UnitComboLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.UnitComboLib.svg)](http://nuget.org/packages/Dirkster.UnitComboLib)
 
 # Overview
@@ -11,5 +12,3 @@ https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Cont
 
 The control is also used in Edi:
 https://github.com/Dirkster99/Edi
-
-and available on NuGet: https://preview.nuget.org/packages/Dirkster.UnitComboLib/
