@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/release/Dirkster99/UnitComboLib.svg.svg)](https://github.com/Dirkster99/UnitComboLib/releases/latest)
+[![Release](https://img.shields.io/github/release/Dirkster99/UnitComboLib.svg)](https://github.com/Dirkster99/UnitComboLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.UnitComboLib.svg)](http://nuget.org/packages/Dirkster.UnitComboLib)
 
 # Overview
