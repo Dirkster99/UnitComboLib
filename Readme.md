@@ -12,3 +12,26 @@ https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Cont
 
 The control is also used in Edi:
 https://github.com/Dirkster99/Edi
+
+## Theming
+
+Load *Light* or *Dark* brush resources in you resource dictionary to take advantage of existing definitions.
+
+```XAML
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/UnitComboLib;component/Themes/DarkBrushs.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+```
+
+```XAML
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/UnitComboLib;component/Themes/LightBrushs.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+```
+
+These definitions do not theme all controls used within this library. You should use a standard theming library, such as:
+- [MahApps.Metro](https://github.com/MahApps/MahApps.Metro),
+- [MLib](https://github.com/Dirkster99/MLib), or
+- [MUI](https://github.com/firstfloorsoftware/mui)
+
+to also theme standard elements, such as, button and textblock etc.
