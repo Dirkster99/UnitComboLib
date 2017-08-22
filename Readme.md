@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8rmd1b9d35efwunj?svg=true)](https://ci.appveyor.com/project/Dirkster99/unitcombolib)
 [![Release](https://img.shields.io/github/release/Dirkster99/UnitComboLib.svg)](https://github.com/Dirkster99/UnitComboLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.UnitComboLib.svg)](http://nuget.org/packages/Dirkster.UnitComboLib)
 
