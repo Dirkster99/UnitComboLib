@@ -13,9 +13,9 @@ This means, the application always sees only one unit and a different value whil
 <td valign="bottom">
 <img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Percent.png" width="100"/>
 </td><td valign="bottom">
-<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Pt.png" width="150"/>
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Pt.png" width="100"/>
 </td><td valign="bottom">
-<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Percent.png" width="100"/>
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Percent.png" width="150"/>
 </td><td valign="bottom">
 <img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Pt.png" width="100"/>
 </td>
