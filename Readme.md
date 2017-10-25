@@ -8,7 +8,7 @@ The WPF UnitComboBox Control implements a combobox that allows the selection of 
 
 This means, the application always sees only one unit and a different value while the user can use whatever unit he prefers to pick the aproppriate value.
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="bottom">
 <img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Percent.png" width="100"/>
