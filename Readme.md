@@ -8,6 +8,12 @@ The WPF UnitComboBox Control implements a combobox that allows the selection of 
 
 This means, the application always sees only one unit and a different value while the user can use whatever unit he prefers to pick the aproppriate value.
 
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
+
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="bottom">
