@@ -8,6 +8,20 @@ The WPF UnitComboBox Control implements a combobox that allows the selection of 
 
 This means, the application always sees only one unit and a different value while the user can use whatever unit he prefers to pick the aproppriate value.
 
+<table border="0">
+<tr>
+<td valign="bottom">
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Percent.png" width="100"/>
+</td><td valign="bottom">
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroDark_Pt.png" width="150"/>
+</td><td valign="bottom">
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Percent.png" width="100"/>
+</td><td valign="bottom">
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Pt.png" width="100"/>
+</td>
+</tr>
+</table>
+
 Details are explained in a CodeProject article:
 https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Control
 
