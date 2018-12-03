@@ -25,8 +25,9 @@ This means, the application always sees only one unit and a different value whil
 Details are explained in a CodeProject article:
 https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Control
 
-The control is also used in Edi:
-https://github.com/Dirkster99/Edi
+Sample Applications:
+- [Edi](https://github.com/Dirkster99/Edi) (see screeenshots below)
+- [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
 
 ## Theming
 
