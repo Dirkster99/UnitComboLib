@@ -26,7 +26,7 @@ Details are explained in a CodeProject article:
 https://www.codeproject.com/Articles/575645/Inheriting-from-a-Look-Less-WPF-Control
 
 Sample Applications:
-- [Edi](https://github.com/Dirkster99/Edi) (see screeenshots below)
+- [Edi](https://github.com/Dirkster99/Edi)
 - [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
 
 ## Theming
