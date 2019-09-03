@@ -1,7 +1,7 @@
-﻿namespace UnitCombobox
+﻿namespace UnitComboboxDemo
 {
   using System.Windows;
-  using UnitCombobox.ViewModels;
+  using UnitComboboxDemo.ViewModels;
 
   /// <summary>
   /// Interaction logic for MainWindow.xaml
