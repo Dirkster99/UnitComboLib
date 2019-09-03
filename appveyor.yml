@@ -1,0 +1,25 @@
+version: 1.1.{build}
+
+configuration: Release
+
+platform: Any CPU
+
+image: Visual Studio 2019 Preview
+
+install:
+  - cmd: choco install dotnetcore-sdk --pre
+  
+before_build:
+  - cmd: nuget restore source/UnitCombobox.sln
+
+build:
+
+  verbosity: minimal
+
+artifacts:
+
+- path: source\UnitComboboxDemo\bin\Release
+  name: UnitComboboxDemo
+
+- path: source\UnitComboLib\bin\Release
+  name: UnitComboLib

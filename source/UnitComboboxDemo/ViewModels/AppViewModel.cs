@@ -1,4 +1,4 @@
-﻿namespace UnitCombobox.ViewModels
+﻿namespace UnitComboboxDemo.ViewModels
 {
     using System.Collections.Generic;
     using System.Collections.ObjectModel;

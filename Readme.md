@@ -2,6 +2,8 @@
 [![Release](https://img.shields.io/github/release/Dirkster99/UnitComboLib.svg)](https://github.com/Dirkster99/UnitComboLib/releases/latest)
 [![NuGet](https://img.shields.io/nuget/dt/Dirkster.UnitComboLib.svg)](http://nuget.org/packages/Dirkster.UnitComboLib)
 
+![Net4](https://badgen.net/badge/Framework/.Net&nbsp;4/blue) ![NetCore3](https://badgen.net/badge/Framework/NetCore&nbsp;3/blue)
+
 # Overview
 
 The WPF UnitComboBox Control implements a combobox that allows the selection of values from  different lists. Each list can represent a different unit (eg.: Celsius, Farenheit) and the viewmodel takes care of always converting to one unit (e.g. Celsius). This conversion is independent of what the user selected unit or value actually was.

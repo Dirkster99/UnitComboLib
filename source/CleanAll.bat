@@ -6,7 +6,7 @@ ECHO.
 ECHO This script deletes all temporary build files in their
 ECHO corresponding BIN and OBJ Folder contained in the following projects
 ECHO.
-ECHO UnitCombobox
+ECHO UnitComboboxDemo
 ECHO UnitComboLib
 ECHO.
 REM Ask the user if hes really sure to continue beyond this point XXXXXXXX
@@ -21,8 +21,8 @@ ECHO.
 ECHO Deleting BIN and OBJ Folders in UnitCombobox
 ECHO.
 RMDIR /S /Q .\.vs
-RMDIR /S /Q .\UnitCombobox\bin
-RMDIR /S /Q .\UnitCombobox\obj
+RMDIR /S /Q .\UnitComboboxDemo\bin
+RMDIR /S /Q .\UnitComboboxDemo\obj
 ECHO.
 ECHO Deleting BIN and OBJ Folders in UnitComboLib
 ECHO.
