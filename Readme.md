@@ -21,6 +21,9 @@ This means, the application always sees only one unit and a different value whil
 </td><td valign="bottom">
 <img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_Pt.png" width="100"/>
 </td>
+</td><td valign="bottom">
+<img src="https://github.com/Dirkster99/Docu/blob/master/UnitComboLib/MetroLight_PopUp.png" width="100"/>
+</td>
 </tr>
 </table>
 
